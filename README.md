@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there
+# Mohamed Imran here
+Hi, I'm Imran, Pursuing B.tech IV year, Software Engineering at SRM Institute of Science and Technology.
+-Front-End Developer, working with Reactjs.
+-Very much interested in Python Programming for Machine Learning and Deep Learning.
+-Currently into Mobile App Development using Flutter.
+-Highly interested in Data Structures and Algorithms.
 
-<!--
-**Imran109/Imran109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I am proficient with -
+-- Frontend - ReactJS, JavaScript, CSS
+-- Backend - NodeJS, Express
+-- Database - MySQL, MongoDB
+-- Programming Languages - Python, JavaScript
+-- Version Control - Git
+-- Linux and MacOS bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Twitter: https://twitter.com/Mohamed8ran
+- Linkedin: https://www.linkedin.com/in/mohamedimranps/
