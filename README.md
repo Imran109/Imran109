@@ -11,7 +11,7 @@ Currently into Mobile App Development using Flutter<br>
 Highly interested in Data Structures and Algorithms<br>
 </p>
 
-## I am proficient with -
+## I am proficient with
 <p align="center">
 -- Frontend - ReactJS, JavaScript, CSS --<br>
 -- Backend - NodeJS, Express --<br>
