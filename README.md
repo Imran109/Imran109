@@ -22,8 +22,9 @@ Highly interested in Data Structures and Algorithms<br>
 </p>
 
 ## Get in touch
-<p align="center">
 
-- Twitter: https://twitter.com/Mohamed8ran
-- Linkedin: https://www.linkedin.com/in/mohamedimranps/
+<p align="center">
+	<a href="https://github.com/Imran109"><img src="https://img.shields.io/github/followers/Imran109.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/Mohamed8ran"><img src="https://img.shields.io/twitter/follow/Mohamed8ran?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/mohamedimranps"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
