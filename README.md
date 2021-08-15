@@ -4,8 +4,8 @@
 
   
 # Mohamed Imran here
-- 👨🏽‍💻  I’m Pursuing Final year in Software Engineering;
-- 👯  I’m Proficient with Reacjs 🤝;
+- 👨🏽‍💻  I am a Software Engineer;
+- 👯  I’m Proficient with ReactJS 🤝;
 - 🌱  I’m currently learning GraphQL and Express; 
 - 🤔  Very much interested in Data Structures and Algorithms;
 - 💬  Ask me about anything, I am happy to help;
