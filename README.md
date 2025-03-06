@@ -4,10 +4,7 @@
 
   
 # Mohamed Imran here
-- 👨🏽‍💻  I am a Software Engineer;
-- 👯  I’m Proficient with ReactJS 🤝;
-- 🌱  I’m currently learning GraphQL and Express; 
-- 🤔  Very much interested in Data Structures and Algorithms;
+- 👨🏽‍💻  I am a Senior Software Engineer at an Australian Fintech called Zeller;
 - 💬  Ask me about anything, I am happy to help;
 - ⚡️  My Leetcode Profile [Mohamedimranps](https://leetcode.com/mohamedimranps/)
 - 📫  How to reach me: [Gmail](mohamedimranps@gmail.com);
