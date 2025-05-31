@@ -4,7 +4,7 @@
 
   
 # Mohamed Imran here
-- 👨🏽‍💻  I am a Senior Software Engineer at an Australian Fintech called Zeller;
+- 👨🏽‍💻  I am a Senior Software Engineer at an Australian Fintech, Zeller;
 - 💬  Ask me about anything, I am happy to help;
 - ⚡️  My Leetcode Profile [Mohamedimranps](https://leetcode.com/mohamedimranps/)
 - 📫  How to reach me: [Gmail](mohamedimranps@gmail.com);
@@ -58,24 +58,14 @@
 
 <p align="center">
 	<a href="https://github.com/Imran109"><img src="https://img.shields.io/github/followers/Imran109.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/Mohamed8ran"><img src="https://img.shields.io/twitter/follow/Mohamed8ran?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/mohamedimranps"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 <p align="center">
-<a href="https://twitter.com/Mohamed8ran">
-  <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://linkedin.com/in/mohamedimranps">
   <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Imran109">
   <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/_imran010/">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mohamed.imran.756412/">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.hackerrank.com/MohamedImranPS16/">
   <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
